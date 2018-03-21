@@ -7,8 +7,8 @@ app.set('views','./views');
 app.get('/', function (req, res) {
     res.render('template');
 });
-app.get('/auth/google', function (req, res) {
-    res.render('auth', {
+app.get('/', function (req, res) {
+    res.render('', {
         login: req.query.login
     });
 });
