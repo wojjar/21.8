@@ -1,1 +1,2 @@
-https://dashboard.heroku.com/apps/fierce-badlands-23277
+
+https://fierce-badlands-23277.herokuapp.com/
